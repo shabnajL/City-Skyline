@@ -1,3 +1,5 @@
+# when maximum width is greater than 1000px 
+# output
 https://shabnajl.github.io/City-Skyline/
 # when maximum width is 1000px or less 
 # output
